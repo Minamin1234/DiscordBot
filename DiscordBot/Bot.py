@@ -6,7 +6,7 @@ import asyncio
 
 import CommandFunctions as CF
 
-MyToken = "ODgzMzc4MTAzNjM4OTYyMjU2.YTJD-A.BHSIugqsRFFTCKIPPbG-Uct5gC0"
+MyToken = "ODgzMzc4MTAzNjM4OTYyMjU2.YTJD-A.BHSIugqsRFFTCKIPPbG-Uct5gC0"//Example. This token is deactivated.
 LogPath = "C:\MyFile\Visual Studio_2019\Bot_test\DiscordDevelop\Log.txt"
 
 
